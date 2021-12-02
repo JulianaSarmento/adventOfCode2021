@@ -1,4 +1,4 @@
-file = open("Day1Input.txt", "r") 
+file = open("Day01Input.txt", "r") 
 
 first = int(file.readline())
 second = int(file.readline())
